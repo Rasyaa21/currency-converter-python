@@ -1,1 +1,2 @@
 # projectInformatika
+tugas pas informatika
